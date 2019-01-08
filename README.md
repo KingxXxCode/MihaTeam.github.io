@@ -37,3 +37,4 @@ You must have npm and Gulp installed globally on your machine in order to use th
 ## Copyright and License
 
 Miha team# MihaTeam.github.io
+# MihaTeam.github.io
